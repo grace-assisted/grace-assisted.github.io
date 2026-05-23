@@ -14,4 +14,10 @@ Passionate, resilient and analytic GIS Specialist dexterous in GIS analysis and 
 
 # PRESENTATION/TRAINING
  <img width="500" height="300" alt="GIS Traiing for MDA" src="https://github.com/user-attachments/assets/b50de655-ab66-4e2d-97b4-c0310b6f4709" />
+ 
+
+https://github.com/user-attachments/assets/5931af20-bccb-4877-aa1c-acfec2e650a0
+
+
+
 
