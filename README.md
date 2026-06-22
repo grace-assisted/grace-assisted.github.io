@@ -9,7 +9,7 @@ Passionate, resilient and analytic GIS and Remote Sensing Specialist dexterous i
  * Python Programming
  * Geological and Geotechnical mapping
  * Urban Layout design
-# <img width="600" height="400" alt="" src="https://github.com/user-attachments/assets/f87f60f7-c2ac-4972-9a92-faeedfd9e73c" />
+#         <img width="600" height="400" alt="" src="https://github.com/user-attachments/assets/f87f60f7-c2ac-4972-9a92-faeedfd9e73c" /></br>
  <img width="300" height="400" alt="NDVI Map" src="https://github.com/user-attachments/assets/c2cca562-7b43-4028-a783-a0563e24fce7" />
 <br>
 <img width="500" height="300" alt="Dashboard" src="https://github.com/user-attachments/assets/faf71ace-02bc-499c-94f2-282731380759" />
